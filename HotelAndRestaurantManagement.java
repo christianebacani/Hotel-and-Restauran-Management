@@ -1,4 +1,6 @@
-    import java.util.Scanner;
+// Hotel and Restaurant Management
+// Created by : Christiane A. Bacani
+import java.util.Scanner;
 
 public class HotelAndRestaurantManagement {
     public static void bookRoom() {
